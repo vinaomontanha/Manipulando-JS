@@ -1,0 +1,1 @@
+window.alert("Alerta: Questão 2");
